@@ -10,7 +10,8 @@ or
 <br/>
 <br/>
 <br/>
-## use "eas build -p android --profile preview" to build an apk using eas (less bugs an problems but slower)
+
+## Use "eas build -p android --profile preview" to build an apk using eas (less bugs an problems but slower)
 <br/>
 please install eas before using more info on https://docs.expo.dev/build-reference/apk/
 
