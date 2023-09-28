@@ -105,7 +105,7 @@ function useBLE(): BluetoothLowEnergyApi {
         
         console.log(error);
       }
-      if (device && device.name !== null && device.name?.includes("tri")) {
+      if (device && device.name !== null ) { 
 
 
         setAllDevices((prevState: Device[]) => {
