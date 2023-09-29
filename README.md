@@ -18,4 +18,12 @@ or
 
 * it can be downloaded via android studio
 
+
+# WARNING CLONE THIS REPOSITORY ON SHORT PATH, OTHERWISE MAY NOT BUILD!
+
+
+
+
+
 references: BLESampleExpo Pulse indicator (Can't find it now)
+
