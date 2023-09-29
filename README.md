@@ -1,6 +1,6 @@
 # BLE-React-Example - USING BLUETOOTH WITH REACT NATIVE AND EXPO
 
-<h3> Use inside the BLESampleExpo-main/BLESampleExpo-main/ with "npx expo run:android" or "npm run android" (first time is slow, but them it stores on cache)</h3>
+<h3> Use inside the BLESampleExpo-main/BLESampleExpo-main/ with "npx expo run:android" or "npm run android" (<strong>NOT RECOMMENDED</strong> first time is slow, but them it stores on cache)</h3>
 <p>use yarn install before to install all packages</p>
 <p>*add your sdk (minimun: 21)* location into the "/android/local.properties" file </p>
 <p>* if you dont have the SDK it can be downloaded via android studio</p>
@@ -9,7 +9,7 @@ or
 <br/>
 
 <h3>
- Use "eas build -p android" to build an using eas (safer option and dont require sdk, but require internet connection and a eas account (free))
+ Use "eas build -p android" to build an using eas (<strong>RECOMMENDED</strong> safer option and dont require sdk, but require internet connection and a eas account (free))
   </h3>
   <h3>
   For phone app with no expo server, use "eas build -p android --profile preview" to build an apk using eas (less bugs an problems but slower)
