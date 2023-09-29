@@ -9,10 +9,13 @@ or
 <br/>
 
 <h3>
+ Use "eas build -p android" to build an using eas (less bugs an problems but slower to init)(safer option and dont require sdk, but require internet connection and a eas account)
+  </h3>
+  <h3>
  Use "eas build -p android --profile preview" to build an apk using eas (less bugs an problems but slower)
   </h3>
 <br/>
-<p>please install eas before using. More info at https://docs.expo.dev/build-reference/apk/</p>
+<p>please install eas before using. More info at https://docs.expo.dev/build-reference/apk/ and use expo app to update live your app at your phone</p>
 
 
 
