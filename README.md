@@ -18,7 +18,8 @@ or
 
 * it can be downloaded via android studio
 
-
+<br/>
+<br/>
 # WARNING CLONE THIS REPOSITORY ON SHORT PATH, OTHERWISE MAY NOT BUILD!
 
 
