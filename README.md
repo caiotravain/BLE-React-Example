@@ -25,12 +25,12 @@ or
 
 <h3> Utilization </h3>
 <p>Connect your android device and run the program, after building press "A" and wait for the blundle be compleated. 
-You can edit the name of the devices in the file "useBLE.ts" to only appear your bluetooth adpater (ONLY WORKS ON HC-10 ADAPTER)
-please be note since its a project built on top of another project the variables may be noted as heartbeat but they are from the HC-10 adapter, such UUID and other caracteristics.</p>
+You can edit the name of the devices in the file "useBLE.ts" to only appear your bluetooth adpater (ONLY WORKS ON HC-10 ADAPTER).
+Please be note since its a project built on top of another project the variables may be noted as heartbeat but they are from the HC-10 adapter, such UUID and other caracteristics.</p>
 
 
 
 <p>Any questions fill free to open an issue or send an email, thx</p>
 
-references: BLESampleExpo Pulse indicator [(Can't find it now)] (https://github.com/friyiajr/BLESampleExpo)
+references: BLESampleExpo Pulse indicator (https://github.com/friyiajr/BLESampleExpo) (https://www.youtube.com/watch?v=UuHLPsjp6fM&t=280s)
 
