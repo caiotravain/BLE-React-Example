@@ -32,5 +32,5 @@ please be note since its a project built on top of another project the variables
 
 <p>Any questions fill free to open an issue or send an email, thx</p>
 
-references: BLESampleExpo Pulse indicator (Can't find it now)
+references: BLESampleExpo Pulse indicator [(Can't find it now)] (https://github.com/friyiajr/BLESampleExpo)
 
