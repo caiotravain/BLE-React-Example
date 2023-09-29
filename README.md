@@ -9,7 +9,7 @@ or
 <br/>
 
 <h3>
- Use "eas build -p android" to build an using eas (<strong>RECOMMENDED</strong> safer option and dont require sdk, but require internet connection and a eas account (free))
+ Use "eas build --profile development --platform android" to build an using eas (<strong> HIGHLY RECOMMENDED</strong> safer option and dont require sdk, but require internet connection and a eas account (free))
   </h3>
   <h3>
   For phone app with no expo server, use "eas build -p android --profile preview" to build an apk using eas (less bugs an problems but slower)
