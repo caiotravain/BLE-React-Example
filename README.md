@@ -31,7 +31,7 @@ or
 <h3> Utilization </h3>
 <p>Connect your android device and run the program, after building press "A" or scan the qr code using expo app and wait for the blundle be compleated. 
 You can edit the name of the devices in the file "useBLE.ts" to only appear your bluetooth adpater (ONLY WORKS ON HC-10 ADAPTER).
-Please be note since its a project built on top of another project the variables may be noted as heartbeat but they are from the HC-10 adapter, such UUID and other caracteristics.</p>
+Please be note since its a project built on top of another project the variables may be noted as heartbeat but they are from the HC-10 adapter, such UUID and other caracteristics. For Collegues (or any one using ATMEL SAME70 XPLAINED) use with this repository https://github.com/caiotravain/BIKE_BLE</p>
 
 
 
